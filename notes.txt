@@ -1,0 +1,7 @@
+
+Commands:
+pip8 --show-source --show-pep8		Will display error, source code and pep8 rule.
+pip8 --show-source			Will display error and source code
+autopep8 --in-place script.py		Will automatically modify script to comply with 
+					PEP8
+
